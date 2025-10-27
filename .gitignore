@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,git,react,vue
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,git,react,vue
 
-# chroma_db 올리지않음
+# vector_db 올리지않음
 AI_server/data/chroma_jurors/
 
 ### Git ###
