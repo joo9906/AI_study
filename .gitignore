@@ -3,6 +3,10 @@
 
 # vector_db 올리지않음
 AI_server/data/chroma_jurors/
+results
+Allganize_model
+Assignment_cache
+lm-evaluation-harness
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -133,6 +137,7 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
+AI_venv
 
 # Celery stuff
 celerybeat-schedule

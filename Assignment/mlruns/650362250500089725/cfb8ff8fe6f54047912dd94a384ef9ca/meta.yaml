@@ -1,0 +1,14 @@
+artifact_uri: file:///g:/SSAFY/About_Code/AI_study/Assignment/mlruns/650362250500089725/cfb8ff8fe6f54047912dd94a384ef9ca/artifacts
+end_time: 1762058577890
+entry_point_name: ''
+experiment_id: '650362250500089725'
+lifecycle_stage: active
+run_id: cfb8ff8fe6f54047912dd94a384ef9ca
+run_name: Local_T4_Qwen_finetune
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762057679286
+status: 3
+tags: []
+user_id: jooyoung
