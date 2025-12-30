@@ -11,17 +11,17 @@ torchvision==0.20.1+cu121
 --extra-index-url https://download.pytorch.org/whl/cu121
 
 # cpu 추론을 위한 추가 패키지
-onnx==1.19.1
-onnxruntime==1.23.2
-onnxruntime-tools==1.7.0
+# onnx==1.19.1
+# onnxruntime==1.23.2
+# onnxruntime-tools==1.7.0
 
 # Vector_db
 weaviate-client==4.17.0
 
 # 핵심 ML 라이브러리
-tensorflow==2.14.0
-tensorboard==2.14.0
-protobuf==6.33.0
+# tensorflow==2.14.0
+# tensorboard==2.14.0
+# protobuf==6.33.0
 
 # 데이터 처리
 numpy==2.1.2
