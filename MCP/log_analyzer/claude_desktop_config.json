@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "log-analyzer": {
+      "command": "python",
+      "args": [
+        "C:/Users/happy/OneDrive/바탕 화면/Code/02_AI_study/MCP/log_analyzer/server.py"
+      ]
+    }
+  }
+}
